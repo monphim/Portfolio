@@ -7,7 +7,6 @@ Hi, I'm Monphim Thomthong
  Mahasarakham, Thailand
 
 
-
 ## About Me
 
 I am a fourth-year Digital Business and Information Systems student with interests in System Analysis, Business Analysis, Data Analysis, and Database Management.
