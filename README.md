@@ -80,6 +80,6 @@ More projects will be added soon.
 
 ## Contact
 
-📧 Email : monphim.t@gmail.com
+ Email : monphim.t@gmail.com
 
-📱 Phone : 062-157-0541
+ Phone : 062-157-0541
