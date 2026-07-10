@@ -1,4 +1,4 @@
-# Hi, I'm Monphim Thomthong 👋
+# Hi, I'm Monphim Thomthong 
 
 ## Digital Business and Information Systems Student
 
