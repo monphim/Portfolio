@@ -2,8 +2,8 @@
 
 ## Digital Business and Information Systems Student
 
-🎓 Mahasarakham University  
-📍 Mahasarakham, Thailand
+ Mahasarakham University  
+ Roi Et, Thailand
 
 ---
 
@@ -87,15 +87,15 @@ I am a fourth-year Digital Business and Information Systems student passionate a
 - EduTech for Thailand's Future: Empowering Smart Learning with Cybersecurity & AI
 
 ### Certifications
-- KU MOOC – Basic Survey Data Analysis with Generative AI
-- KU MOOC – Generative AI and ChatGPT for Academic Research
-- Responsive Web Design for Mobile Devices (12 Hours)
-- Microsoft Power BI (3 Hours)
+- Basic Survey Data Analysis with Generative AI
+- Generative AI and ChatGPT for Academic Research
+- Responsive Web Design for Mobile Devices 
+- Microsoft Power BI 
 
 ---
 
 ## Contact
 
-📧 **Email:** monphim.t@gmail.com
+ **Email :** monphim.t@gmail.com
 
-📱 **Phone:** 062-157-0541
+ **Phone :** 062-157-0541
